@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ic_email">
+        <item name="android:drawableRight">@drawable/ic_email</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+
+    <style name="ic_senha">
+        <item name="android:drawableRight">@drawable/ic_senha</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+
+    <style name="ic_user">
+        <item name="android:drawableRight">@drawable/ic_user</item>
+        <item name="android:paddingRight">15dp</item>
+    </style>
+
+
+
+</resources>

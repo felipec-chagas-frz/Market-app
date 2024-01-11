@@ -9,4 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="azuul">#FFD700</color>
     <color name="amarelo">#FFA500</color>
+
+    <color name="fundo">#F8F8FF</color>
+    <color name="cinza">#DCDCDC</color>
 </resources>
